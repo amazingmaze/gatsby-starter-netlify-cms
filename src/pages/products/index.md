@@ -1,6 +1,5 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: What we offer
@@ -98,4 +97,10 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+    - description: Helt galen test produkt!
+      items:
+        - Some items
+      plan: Sinnesyk
+      price: '300'
 ---
+
